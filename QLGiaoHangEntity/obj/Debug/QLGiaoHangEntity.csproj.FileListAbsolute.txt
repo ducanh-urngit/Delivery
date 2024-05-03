@@ -1,0 +1,218 @@
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.exe.config
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.exe
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.pdb
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.xml
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.AssemblyReference.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.SuggestedBindingRedirects.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Form1.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Properties.Resources.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.GenerateResource.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.CoreCompileInputs.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.CopyComplete
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.exe
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.pdb
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Form2.resources
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.exe.config
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.exe
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.pdb
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Form1.resources
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Form2.resources
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.CopyComplete
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.exe
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.pdb
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonDangGiao.rdlc
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonDaGiao.rdlc
+C:\Users\Admin\Downloads\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonTraVe.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonDangGiao.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonBiHuy.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonDaGiao.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ReportDonTraVe.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\EnvDTE.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\stdole.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\QLGiaoHangEntity\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ReportDonDangGiao.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ReportDonBiHuy.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ReportDonDaGiao.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ReportDonTraVe.rdlc
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.exe.config
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.exe
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\QLGiaoHangEntity.pdb
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\EntityFramework.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\EnvDTE.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\stdole.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\EntityFramework.xml
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.AssemblyReference.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.SuggestedBindingRedirects.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Form1.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Form2.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.Properties.Resources.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.GenerateResource.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.CoreCompileInputs.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.csproj.CopyComplete
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.exe
+E:\2NamHai\Ki2\LapTrinhWindows\Đồ án cuối kỳ\Nhom26_FinalProject-2023\DeliveryEntityFramework\QLGiaoHangEntity\obj\Debug\QLGiaoHangEntity.pdb

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DeliveryModelStoreContainer" CdmEntityContainer="DeliveryEntities">
+    <EntitySetMapping Name="CHITIETDONHANGs">
+      <EntityTypeMapping TypeName="DeliveryModel.CHITIETDONHANG">
+        <MappingFragment StoreEntitySet="CHITIETDONHANG">
+          <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="NgayGiaoThucTe" ColumnName="NgayGiaoThucTe" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DONHANGs">
+      <EntityTypeMapping TypeName="DeliveryModel.DONHANG">
+        <MappingFragment StoreEntitySet="DONHANG">
+          <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+          <ScalarProperty Name="TenDonHang" ColumnName="TenDonHang" />
+          <ScalarProperty Name="NgayDat" ColumnName="NgayDat" />
+          <ScalarProperty Name="NgayGiaoDuKien" ColumnName="NgayGiaoDuKien" />
+          <ScalarProperty Name="GiaTriDonHang" ColumnName="GiaTriDonHang" />
+          <ScalarProperty Name="ThuHo" ColumnName="ThuHo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGs">
+      <EntityTypeMapping TypeName="DeliveryModel.KHACHHANG">
+        <MappingFragment StoreEntitySet="KHACHHANG">
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHANVIENs">
+      <EntityTypeMapping TypeName="DeliveryModel.NHANVIEN">
+        <MappingFragment StoreEntitySet="NHANVIEN">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+          <ScalarProperty Name="SDTNV" ColumnName="SDTNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QuanLies">
+      <EntityTypeMapping TypeName="DeliveryModel.QuanLy">
+        <MappingFragment StoreEntitySet="QuanLy">
+          <ScalarProperty Name="MaQuanLy" ColumnName="MaQuanLy" />
+          <ScalarProperty Name="TenQuanLy" ColumnName="TenQuanLy" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

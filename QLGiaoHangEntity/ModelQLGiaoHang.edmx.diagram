@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="435bba1acc084f67acdbadda359f94f9" Name="Diagram1">
+        <EntityTypeShape EntityType="DeliveryModel.CHITIETDONHANG" Width="1.5" PointX="5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryModel.DONHANG" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryModel.QuanLy" Width="1.5" PointX="6.5" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="DeliveryModel.FK__CHITIETDO__MaDon__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliveryModel.FK__CHITIETDON__MaKH__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliveryModel.FK__CHITIETDON__MaNV__412EB0B6" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

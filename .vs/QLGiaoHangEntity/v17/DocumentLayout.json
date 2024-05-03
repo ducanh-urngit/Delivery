@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\blayer\\bl_calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\blayer\\bl_calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|e:\\2namhai\\ki2\\laptrinhwindows\\\u0111\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\nhom26_finalproject-2023\\deliveryentityframework\\qlgiaohangentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\blayer\\blentity_formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\blayer\\blentity_formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\blayer\\bl_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\blayer\\bl_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\reportdonbihuy.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\reportdonbihuy.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\blayer\\bl_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\blayer\\bl_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\qlgiaohangentity\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8858CAA-1C43-44CA-A32D-C8635DA32D5D}|QLGiaoHangEntity\\QLGiaoHangEntity.csproj|solutionrelative:qlgiaohangentity\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Program.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Program.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Program.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-12T07:27:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\App.config",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\App.config",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\App.config",
+              "RelativeToolTip": "QLGiaoHangEntity\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-06-12T06:51:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLEntity_formMain.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BLEntity_formMain.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\BLayer\\BLEntity_formMain.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BLEntity_formMain.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\BLayer\\BLEntity_formMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-11T14:28:32.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form1.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Form1.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form1.cs [Design]",
+              "RelativeToolTip": "QLGiaoHangEntity\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-11T14:24:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BL_Calculate.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BL_Calculate.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\BLayer\\BL_Calculate.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BL_Calculate.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\BLayer\\BL_Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-11T13:26:36.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportDonBiHuy.rdlc [Design]",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\ReportDonBiHuy.rdlc",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\ReportDonBiHuy.rdlc",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\ReportDonBiHuy.rdlc [Design]",
+              "RelativeToolTip": "QLGiaoHangEntity\\ReportDonBiHuy.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2023-06-11T13:52:52.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form2.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Form2.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form2.cs [Design]",
+              "RelativeToolTip": "QLGiaoHangEntity\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-11T13:26:37.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form2.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Form2.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form2.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-11T13:26:37.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form1.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Form1.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form1.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\Form1.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAGcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-11T13:26:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\DataSet1.xsd",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\DataSet1.xsd",
+              "RelativeToolTip": "QLGiaoHangEntity\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2023-06-11T13:54:01.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BL_Search.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BL_Search.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\BLayer\\BL_Search.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BL_Search.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\BLayer\\BL_Search.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-11T13:26:36.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Form1.Designer.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form1.Designer.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\Form1.Designer.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAANYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-06-11T13:26:36.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BL_Edit.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BL_Edit.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\BLayer\\BL_Edit.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\BLayer\\BL_Edit.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\BLayer\\BL_Edit.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAFEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-11T13:26:36.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\KHACHHANG.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\KHACHHANG.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\KHACHHANG.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-06-11T13:26:37.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CHITIETDONHANG.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\CHITIETDONHANG.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\CHITIETDONHANG.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\CHITIETDONHANG.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\CHITIETDONHANG.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-06-11T13:26:37.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "QLGiaoHangEntity\\Form2.Designer.cs",
+              "ToolTip": "E:\\2NamHai\\Ki2\\LapTrinhWindows\\\u0110\u1ED3 \u00E1n cu\u1ED1i k\u1EF3\\Nhom26_FinalProject-2023\\DeliveryEntityFramework\\QLGiaoHangEntity\\Form2.Designer.cs",
+              "RelativeToolTip": "QLGiaoHangEntity\\Form2.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwI8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-06-11T13:26:37.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

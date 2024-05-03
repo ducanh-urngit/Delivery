@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DeliveryModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CHITIETDONHANG">
+          <Key>
+            <PropertyRef Name="MaDonHang" />
+          </Key>
+          <Property Name="MaDonHang" Type="int" Nullable="false" />
+          <Property Name="MaKH" Type="int" />
+          <Property Name="MaNV" Type="int" />
+          <Property Name="NgayGiaoThucTe" Type="date" />
+          <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="DONHANG">
+          <Key>
+            <PropertyRef Name="MaDonHang" />
+          </Key>
+          <Property Name="MaDonHang" Type="int" Nullable="false" />
+          <Property Name="TenDonHang" Type="nvarchar" MaxLength="50" />
+          <Property Name="NgayDat" Type="date" />
+          <Property Name="NgayGiaoDuKien" Type="date" />
+          <Property Name="GiaTriDonHang" Type="int" />
+          <Property Name="ThuHo" Type="int" />
+        </EntityType>
+        <EntityType Name="KHACHHANG">
+          <Key>
+            <PropertyRef Name="MaKH" />
+          </Key>
+          <Property Name="MaKH" Type="int" Nullable="false" />
+          <Property Name="TenKH" Type="nvarchar" MaxLength="50" />
+          <Property Name="DiaChi" Type="nvarchar" MaxLength="100" />
+          <Property Name="SDT" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="NHANVIEN">
+          <Key>
+            <PropertyRef Name="MaNV" />
+          </Key>
+          <Property Name="MaNV" Type="int" Nullable="false" />
+          <Property Name="TenNV" Type="nvarchar" MaxLength="50" />
+          <Property Name="SDTNV" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="QuanLy">
+          <Key>
+            <PropertyRef Name="MaQuanLy" />
+          </Key>
+          <Property Name="MaQuanLy" Type="int" Nullable="false" />
+          <Property Name="TenQuanLy" Type="nvarchar" MaxLength="50" />
+          <Property Name="MatKhau" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <Association Name="FK__CHITIETDO__MaDon__3F466844">
+          <End Role="DONHANG" Type="Self.DONHANG" Multiplicity="1" />
+          <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="DONHANG">
+              <PropertyRef Name="MaDonHang" />
+            </Principal>
+            <Dependent Role="CHITIETDONHANG">
+              <PropertyRef Name="MaDonHang" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CHITIETDON__MaKH__403A8C7D">
+          <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="0..1" />
+          <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KHACHHANG">
+              <PropertyRef Name="MaKH" />
+            </Principal>
+            <Dependent Role="CHITIETDONHANG">
+              <PropertyRef Name="MaKH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CHITIETDON__MaNV__412EB0B6">
+          <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="0..1" />
+          <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MaNV" />
+            </Principal>
+            <Dependent Role="CHITIETDONHANG">
+              <PropertyRef Name="MaNV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DeliveryModelStoreContainer">
+          <EntitySet Name="CHITIETDONHANG" EntityType="Self.CHITIETDONHANG" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DONHANG" EntityType="Self.DONHANG" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="NHANVIEN" EntityType="Self.NHANVIEN" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="QuanLy" EntityType="Self.QuanLy" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__CHITIETDO__MaDon__3F466844" Association="Self.FK__CHITIETDO__MaDon__3F466844">
+            <End Role="DONHANG" EntitySet="DONHANG" />
+            <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANG" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CHITIETDON__MaKH__403A8C7D" Association="Self.FK__CHITIETDON__MaKH__403A8C7D">
+            <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+            <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANG" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CHITIETDON__MaNV__412EB0B6" Association="Self.FK__CHITIETDON__MaNV__412EB0B6">
+            <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+            <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANG" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DeliveryModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CHITIETDONHANG">
+          <Key>
+            <PropertyRef Name="MaDonHang" />
+          </Key>
+          <Property Name="MaDonHang" Type="Int32" Nullable="false" />
+          <Property Name="MaKH" Type="Int32" />
+          <Property Name="MaNV" Type="Int32" />
+          <Property Name="NgayGiaoThucTe" Type="DateTime" Precision="0" />
+          <Property Name="TrangThai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="DONHANG" Relationship="Self.FK__CHITIETDO__MaDon__3F466844" FromRole="CHITIETDONHANG" ToRole="DONHANG" />
+          <NavigationProperty Name="KHACHHANG" Relationship="Self.FK__CHITIETDON__MaKH__403A8C7D" FromRole="CHITIETDONHANG" ToRole="KHACHHANG" />
+          <NavigationProperty Name="NHANVIEN" Relationship="Self.FK__CHITIETDON__MaNV__412EB0B6" FromRole="CHITIETDONHANG" ToRole="NHANVIEN" />
+        </EntityType>
+        <EntityType Name="DONHANG">
+          <Key>
+            <PropertyRef Name="MaDonHang" />
+          </Key>
+          <Property Name="MaDonHang" Type="Int32" Nullable="false" />
+          <Property Name="TenDonHang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="NgayDat" Type="DateTime" Precision="0" />
+          <Property Name="NgayGiaoDuKien" Type="DateTime" Precision="0" />
+          <Property Name="GiaTriDonHang" Type="Int32" />
+          <Property Name="ThuHo" Type="Int32" />
+          <NavigationProperty Name="CHITIETDONHANG" Relationship="Self.FK__CHITIETDO__MaDon__3F466844" FromRole="DONHANG" ToRole="CHITIETDONHANG" />
+        </EntityType>
+        <EntityType Name="KHACHHANG">
+          <Key>
+            <PropertyRef Name="MaKH" />
+          </Key>
+          <Property Name="MaKH" Type="Int32" Nullable="false" />
+          <Property Name="TenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DiaChi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="SDT" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="CHITIETDONHANGs" Relationship="Self.FK__CHITIETDON__MaKH__403A8C7D" FromRole="KHACHHANG" ToRole="CHITIETDONHANG" />
+        </EntityType>
+        <EntityType Name="NHANVIEN">
+          <Key>
+            <PropertyRef Name="MaNV" />
+          </Key>
+          <Property Name="MaNV" Type="Int32" Nullable="false" />
+          <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SDTNV" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="CHITIETDONHANGs" Relationship="Self.FK__CHITIETDON__MaNV__412EB0B6" FromRole="NHANVIEN" ToRole="CHITIETDONHANG" />
+        </EntityType>
+        <EntityType Name="QuanLy">
+          <Key>
+            <PropertyRef Name="MaQuanLy" />
+          </Key>
+          <Property Name="MaQuanLy" Type="Int32" Nullable="false" />
+          <Property Name="TenQuanLy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MatKhau" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <Association Name="FK__CHITIETDO__MaDon__3F466844">
+          <End Role="DONHANG" Type="Self.DONHANG" Multiplicity="1" />
+          <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="DONHANG">
+              <PropertyRef Name="MaDonHang" />
+            </Principal>
+            <Dependent Role="CHITIETDONHANG">
+              <PropertyRef Name="MaDonHang" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CHITIETDON__MaKH__403A8C7D">
+          <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="0..1" />
+          <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KHACHHANG">
+              <PropertyRef Name="MaKH" />
+            </Principal>
+            <Dependent Role="CHITIETDONHANG">
+              <PropertyRef Name="MaKH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CHITIETDON__MaNV__412EB0B6">
+          <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="0..1" />
+          <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MaNV" />
+            </Principal>
+            <Dependent Role="CHITIETDONHANG">
+              <PropertyRef Name="MaNV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DeliveryEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CHITIETDONHANGs" EntityType="Self.CHITIETDONHANG" />
+          <EntitySet Name="DONHANGs" EntityType="Self.DONHANG" />
+          <EntitySet Name="KHACHHANGs" EntityType="Self.KHACHHANG" />
+          <EntitySet Name="NHANVIENs" EntityType="Self.NHANVIEN" />
+          <EntitySet Name="QuanLies" EntityType="Self.QuanLy" />
+          <AssociationSet Name="FK__CHITIETDO__MaDon__3F466844" Association="Self.FK__CHITIETDO__MaDon__3F466844">
+            <End Role="DONHANG" EntitySet="DONHANGs" />
+            <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANGs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CHITIETDON__MaKH__403A8C7D" Association="Self.FK__CHITIETDON__MaKH__403A8C7D">
+            <End Role="KHACHHANG" EntitySet="KHACHHANGs" />
+            <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANGs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CHITIETDON__MaNV__412EB0B6" Association="Self.FK__CHITIETDON__MaNV__412EB0B6">
+            <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+            <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANGs" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DeliveryModelStoreContainer" CdmEntityContainer="DeliveryEntities">
+          <EntitySetMapping Name="CHITIETDONHANGs">
+            <EntityTypeMapping TypeName="DeliveryModel.CHITIETDONHANG">
+              <MappingFragment StoreEntitySet="CHITIETDONHANG">
+                <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+                <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+                <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+                <ScalarProperty Name="NgayGiaoThucTe" ColumnName="NgayGiaoThucTe" />
+                <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DONHANGs">
+            <EntityTypeMapping TypeName="DeliveryModel.DONHANG">
+              <MappingFragment StoreEntitySet="DONHANG">
+                <ScalarProperty Name="MaDonHang" ColumnName="MaDonHang" />
+                <ScalarProperty Name="TenDonHang" ColumnName="TenDonHang" />
+                <ScalarProperty Name="NgayDat" ColumnName="NgayDat" />
+                <ScalarProperty Name="NgayGiaoDuKien" ColumnName="NgayGiaoDuKien" />
+                <ScalarProperty Name="GiaTriDonHang" ColumnName="GiaTriDonHang" />
+                <ScalarProperty Name="ThuHo" ColumnName="ThuHo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KHACHHANGs">
+            <EntityTypeMapping TypeName="DeliveryModel.KHACHHANG">
+              <MappingFragment StoreEntitySet="KHACHHANG">
+                <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+                <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+                <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+                <ScalarProperty Name="SDT" ColumnName="SDT" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="NHANVIENs">
+            <EntityTypeMapping TypeName="DeliveryModel.NHANVIEN">
+              <MappingFragment StoreEntitySet="NHANVIEN">
+                <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+                <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+                <ScalarProperty Name="SDTNV" ColumnName="SDTNV" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="QuanLies">
+            <EntityTypeMapping TypeName="DeliveryModel.QuanLy">
+              <MappingFragment StoreEntitySet="QuanLy">
+                <ScalarProperty Name="MaQuanLy" ColumnName="MaQuanLy" />
+                <ScalarProperty Name="TenQuanLy" ColumnName="TenQuanLy" />
+                <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
